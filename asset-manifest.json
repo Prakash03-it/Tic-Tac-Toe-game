@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Tic-Tac-Toe-game/static/css/main.6664c243.css",
-    "main.js": "/Tic-Tac-Toe-game/static/js/main.230b35ae.js",
+    "main.js": "/Tic-Tac-Toe-game/static/js/main.f749f4a7.js",
     "static/js/453.5e6f9124.chunk.js": "/Tic-Tac-Toe-game/static/js/453.5e6f9124.chunk.js",
     "index.html": "/Tic-Tac-Toe-game/index.html",
     "main.6664c243.css.map": "/Tic-Tac-Toe-game/static/css/main.6664c243.css.map",
-    "main.230b35ae.js.map": "/Tic-Tac-Toe-game/static/js/main.230b35ae.js.map",
+    "main.f749f4a7.js.map": "/Tic-Tac-Toe-game/static/js/main.f749f4a7.js.map",
     "453.5e6f9124.chunk.js.map": "/Tic-Tac-Toe-game/static/js/453.5e6f9124.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6664c243.css",
-    "static/js/main.230b35ae.js"
+    "static/js/main.f749f4a7.js"
   ]
 }
